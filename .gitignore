@@ -1,0 +1,6 @@
+*.[oa]
+*~
+*.dat
+*.m
+build/
+obj/
